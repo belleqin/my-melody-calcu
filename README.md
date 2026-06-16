@@ -1,5 +1,5 @@
 # my-melody-calcu
-My Melody customize calculator.
+My own customized calculator inspired by My Melody.
 
 Features
 - Cute pastel design
