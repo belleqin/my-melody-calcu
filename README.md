@@ -1,2 +1,8 @@
 # my-melody-calcu
-My own customize calculator.
+My Melody customize calculator.
+
+Features
+- Cute pastel design
+- Basic calculator functions
+- Custom background
+- Built with HTML, CSS, and JavaScript
